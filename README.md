@@ -23,12 +23,12 @@ Only scaling from 0 to 1 is applyed.
 All Code is made with **Jupyter Notebook.**
 
 ## Result Visulization
-### Reconstruction Path
+### Reconstruction Task
 This is reconstructed images from model when image sequence is used as a input
 The model is trained to memorize shape of number in sequence images.
 ![](reconstruction6.gif)
 
-### Prediction Path
+### Prediction Task
 This is predicted images from model when image sequence is used as a input.
 The model is trained to catch velocity of number and shape of number in image.
 ![](prediction6.gif)
