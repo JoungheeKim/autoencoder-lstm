@@ -34,5 +34,7 @@ The model is trained to catch velocity of number and shape of number in image.
 ![](prediction6.gif)
 
 ## Reference
--[[PAPER]](https://arxiv.org/abs/1502.04681) Unsupervised Learning of Video Representations using LSTMs, 2015  
--[[GITHUB]](https://github.com/tychovdo/MovingMNIST) pytorch implemented MovingMNIST Dataset
+- [[PAPER]](https://arxiv.org/abs/1502.04681) Unsupervised Learning of Video Representations using LSTMs, Srivastava at el
+- [[GITHUB]](https://github.com/tychovdo/MovingMNIST) Moving MNIST Auto Download Module, tychovdo
+- [[GITHUB]](https://github.com/bentrevett/pytorch-seq2seq) PyTorch Seq2Seq Sample, bentrevett
+- [[DATASET]](http://www.cs.toronto.edu/~nitish/unsupervised_video/) Moving MNIST Dataset
