@@ -21,6 +21,8 @@ Only scaling from 0 to 1 is applyed.
 
 ## Training Code
 All Code is made with **Jupyter Notebook.**
+Korean, English version is supported in this project.
+Detail description is provided in [here](https://joungheekim.github.io/2020/10/11/code-review/) with korean.
 
 ## Result Visulization
 ### Reconstruction Task
@@ -30,7 +32,7 @@ The model is trained to memorize shape of number in sequence images.
 
 ### Prediction Task
 This is predicted images from model when image sequence is used as a input.
-The model is trained to catch velocity of number and shape of number in image.
+The model is trained to catch velocity and shape of number in images.
 ![](prediction6.gif)
 
 ## Reference
