@@ -1,0 +1,6 @@
+matplotlib==3.3.3
+torch==1.7.1
+tqdm==4.49.0
+torchvision==0.8.2
+easydict==1.9
+celluloid==0.2.0
